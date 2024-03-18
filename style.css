@@ -1,11 +1,10 @@
 @font-face {
-    font-family: base;
     src: url("font/MadimiOne-Regular.ttf");
+    font-family: base;
 }
 
 body{
-    font-family: Sans-serif;
-    font-size: 17.3px;
+    font-family: base;
     margin: 0;
 }
 
